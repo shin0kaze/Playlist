@@ -9,6 +9,11 @@ open Avalonia.FuncUI
 open Avalonia.FuncUI.DSL
 open Avalonia.Layout
 
+//#region test
+//dsdsd
+//#endregion 
+
+
 module Main =
     type State = { count : int }
     let init() = { count = 0 }
@@ -49,7 +54,7 @@ module Main =
                 ]
             ]
         )
-        
+/// generate docs        
 type MainWindow() =
     inherit HostWindow()
     do
