@@ -1,4 +1,4 @@
-﻿
+﻿open FSharp.Data.Sql
 open Microsoft.Data.Sqlite
 
 [<Literal>]
