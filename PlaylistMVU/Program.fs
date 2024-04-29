@@ -23,7 +23,7 @@ module Main =
     | Decrement
     | SetCount of int
     | Reset
-    
+    //TODO: do this thing up
     let view () =
         Component(fun ctx ->
             let state = ctx.useState 0
