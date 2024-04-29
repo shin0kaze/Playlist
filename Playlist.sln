@@ -6,6 +6,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PlaylistMVU", "PlaylistMVU\
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FirstStepsTests", "FirstStepsTests\FirstStepsTests.fsproj", "{BA35A81B-D1EF-4802-AEEA-81E4D2403F68}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Polygon", "Polygon\Polygon.fsproj", "{BE67B99F-4659-489B-AFD3-87D1294B4DEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{BA35A81B-D1EF-4802-AEEA-81E4D2403F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA35A81B-D1EF-4802-AEEA-81E4D2403F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA35A81B-D1EF-4802-AEEA-81E4D2403F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE67B99F-4659-489B-AFD3-87D1294B4DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE67B99F-4659-489B-AFD3-87D1294B4DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE67B99F-4659-489B-AFD3-87D1294B4DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE67B99F-4659-489B-AFD3-87D1294B4DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
